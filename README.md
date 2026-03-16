@@ -1,0 +1,2 @@
+# AI-Powered-Recruitment-and-Candidate-Management-System
+AI-Powered Recruitment and Candidate Management System is a Salesforce-based application that automates the hiring process. Using Salesforce CRM, Flow Builder, and Agentforce AI, it manages job openings, tracks candidate applications, and helps recruiters evaluate candidates efficiently, reducing manual work and improving recruitment decisions.
