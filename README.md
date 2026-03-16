@@ -71,3 +71,7 @@ automation, dashboards, and workflows to enhance recruitment efficiency.
 ## License
 
 This project is developed for educational and academic purposes.
+
+## Demo Video:
+
+https://drive.google.com/file/d/16f0lDKRLJrRRK_tkqFmczxkSDDoxCnHm/view?usp=drivesdk
